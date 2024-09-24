@@ -45,13 +45,8 @@ Follow the steps below in order to use it:
     pip install -r requirements.txt
     ```
 
-## Usage
-
-```bash
-python main.py
-
 ## Project Structure
-.
+
 ├── src/                 # Main Code
 ├── Dependencies/        # Folder for dependencies
     ├── config.py        # Python file with credentials and database configuration
@@ -61,3 +56,9 @@ python main.py
 ├── Output/              # Where uploaded files will be put - if the folder doesn't exist, it will be created
 ├── requirements.txt     # Project dependencies
 └── readme.md            # This file
+
+
+## Usage
+
+```bash
+python main.py

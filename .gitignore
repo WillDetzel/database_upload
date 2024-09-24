@@ -1,0 +1,5 @@
+# Ignore credentials.ini
+Dependencies/credentials.ini
+
+# Ignore requirements.txt
+/requirements.txt
